@@ -1,5 +1,7 @@
 # Mask-test 簡易口罩測試&及時通知
-![0_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/99164823/152910889-2fdda062-20ed-4494-9645-668115b0630d.gif)
+
+https://user-images.githubusercontent.com/99164823/152931854-b53d4934-65e7-4885-bd52-8b110157e5fa.mp4
+
 
 
 模型使用yolov5內建模型yolov5s.py作為訓練，數據集則是從網路上找有戴/無戴口罩的人臉照片各500張進行測試，最後再結合line.py到detect.py中作推播通知
